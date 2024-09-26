@@ -1,0 +1,21 @@
+.catalog-search{
+    display: flex;
+    margin-left: 500px;
+}
+
+.form-group{
+    display: flex;
+    margin-bottom: 0 !important;
+}
+
+#w1{
+    display: flex !important;
+}
+
+#w4{
+    display: flex !important;
+}
+
+#w3{
+    display: flex !important;
+}
