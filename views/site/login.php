@@ -11,7 +11,7 @@ use yii\bootstrap5\Html;
 ?>
 <h5 class="text">
     Для продолжения необходимо авторизоваться<br>
-    Если нет аккаунта, вы можете его <a href="<?php \yii\helpers\Url::to('site/signup') ?>>">Зарегистрировать</a>
+    Если нет аккаунта, вы можете его <a href="http://localhost/practic/web/site/signup">Зарегистрировать</a>
 </h5>
 <div class="site-login"
 
